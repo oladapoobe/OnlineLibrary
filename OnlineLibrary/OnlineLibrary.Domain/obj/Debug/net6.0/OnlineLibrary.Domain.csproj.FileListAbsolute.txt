@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\OnlineLibrary\OnlineLibrary.Domain\bin\Debug\net6.0\OnlineLibrary.Domain.deps.json
+C:\Users\HP\source\repos\OnlineLibrary\OnlineLibrary.Domain\bin\Debug\net6.0\OnlineLibrary.Domain.dll
+C:\Users\HP\source\repos\OnlineLibrary\OnlineLibrary.Domain\bin\Debug\net6.0\OnlineLibrary.Domain.pdb
+C:\Users\HP\source\repos\OnlineLibrary\OnlineLibrary.Domain\obj\Debug\net6.0\OnlineLibrary.Domain.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\OnlineLibrary\OnlineLibrary.Domain\obj\Debug\net6.0\OnlineLibrary.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\OnlineLibrary\OnlineLibrary.Domain\obj\Debug\net6.0\OnlineLibrary.Domain.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\OnlineLibrary\OnlineLibrary.Domain\obj\Debug\net6.0\OnlineLibrary.Domain.AssemblyInfo.cs
+C:\Users\HP\source\repos\OnlineLibrary\OnlineLibrary.Domain\obj\Debug\net6.0\OnlineLibrary.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\OnlineLibrary\OnlineLibrary.Domain\obj\Debug\net6.0\OnlineLibrary.Domain.dll
+C:\Users\HP\source\repos\OnlineLibrary\OnlineLibrary.Domain\obj\Debug\net6.0\refint\OnlineLibrary.Domain.dll
+C:\Users\HP\source\repos\OnlineLibrary\OnlineLibrary.Domain\obj\Debug\net6.0\OnlineLibrary.Domain.pdb
+C:\Users\HP\source\repos\OnlineLibrary\OnlineLibrary.Domain\obj\Debug\net6.0\ref\OnlineLibrary.Domain.dll

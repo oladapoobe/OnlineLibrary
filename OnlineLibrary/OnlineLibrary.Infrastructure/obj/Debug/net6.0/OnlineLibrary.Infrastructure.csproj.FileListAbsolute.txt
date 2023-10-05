@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\OnlineLibrary\OnlineLibrary.Infrastructure\obj\Debug\net6.0\OnlineLibrary.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\OnlineLibrary\OnlineLibrary.Infrastructure\obj\Debug\net6.0\OnlineLibrary.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\OnlineLibrary\OnlineLibrary.Infrastructure\obj\Debug\net6.0\OnlineLibrary.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\OnlineLibrary\OnlineLibrary.Infrastructure\obj\Debug\net6.0\OnlineLibrary.Infrastructure.AssemblyInfo.cs
+C:\Users\HP\source\repos\OnlineLibrary\OnlineLibrary.Infrastructure\obj\Debug\net6.0\OnlineLibrary.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\OnlineLibrary\OnlineLibrary.Infrastructure\bin\Debug\net6.0\OnlineLibrary.Infrastructure.deps.json
+C:\Users\HP\source\repos\OnlineLibrary\OnlineLibrary.Infrastructure\bin\Debug\net6.0\OnlineLibrary.Infrastructure.dll
+C:\Users\HP\source\repos\OnlineLibrary\OnlineLibrary.Infrastructure\bin\Debug\net6.0\OnlineLibrary.Infrastructure.pdb
+C:\Users\HP\source\repos\OnlineLibrary\OnlineLibrary.Infrastructure\bin\Debug\net6.0\OnlineLibrary.Application.dll
+C:\Users\HP\source\repos\OnlineLibrary\OnlineLibrary.Infrastructure\bin\Debug\net6.0\OnlineLibrary.Domain.dll
+C:\Users\HP\source\repos\OnlineLibrary\OnlineLibrary.Infrastructure\bin\Debug\net6.0\OnlineLibrary.Application.pdb
+C:\Users\HP\source\repos\OnlineLibrary\OnlineLibrary.Infrastructure\bin\Debug\net6.0\OnlineLibrary.Domain.pdb
+C:\Users\HP\source\repos\OnlineLibrary\OnlineLibrary.Infrastructure\obj\Debug\net6.0\OnlineLibrary.Infrastructure.csproj.CopyComplete
+C:\Users\HP\source\repos\OnlineLibrary\OnlineLibrary.Infrastructure\obj\Debug\net6.0\OnlineLibrary.Infrastructure.dll
+C:\Users\HP\source\repos\OnlineLibrary\OnlineLibrary.Infrastructure\obj\Debug\net6.0\refint\OnlineLibrary.Infrastructure.dll
+C:\Users\HP\source\repos\OnlineLibrary\OnlineLibrary.Infrastructure\obj\Debug\net6.0\OnlineLibrary.Infrastructure.pdb
+C:\Users\HP\source\repos\OnlineLibrary\OnlineLibrary.Infrastructure\obj\Debug\net6.0\ref\OnlineLibrary.Infrastructure.dll

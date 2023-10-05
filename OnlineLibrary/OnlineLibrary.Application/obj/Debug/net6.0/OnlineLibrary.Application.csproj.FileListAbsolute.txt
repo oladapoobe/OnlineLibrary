@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\OnlineLibrary\OnlineLibrary.Application\obj\Debug\net6.0\OnlineLibrary.Application.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\OnlineLibrary\OnlineLibrary.Application\obj\Debug\net6.0\OnlineLibrary.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\OnlineLibrary\OnlineLibrary.Application\obj\Debug\net6.0\OnlineLibrary.Application.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\OnlineLibrary\OnlineLibrary.Application\obj\Debug\net6.0\OnlineLibrary.Application.AssemblyInfo.cs
+C:\Users\HP\source\repos\OnlineLibrary\OnlineLibrary.Application\obj\Debug\net6.0\OnlineLibrary.Application.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\OnlineLibrary\OnlineLibrary.Application\bin\Debug\net6.0\OnlineLibrary.Application.deps.json
+C:\Users\HP\source\repos\OnlineLibrary\OnlineLibrary.Application\bin\Debug\net6.0\OnlineLibrary.Application.dll
+C:\Users\HP\source\repos\OnlineLibrary\OnlineLibrary.Application\bin\Debug\net6.0\OnlineLibrary.Application.pdb
+C:\Users\HP\source\repos\OnlineLibrary\OnlineLibrary.Application\bin\Debug\net6.0\OnlineLibrary.Domain.dll
+C:\Users\HP\source\repos\OnlineLibrary\OnlineLibrary.Application\bin\Debug\net6.0\OnlineLibrary.Domain.pdb
+C:\Users\HP\source\repos\OnlineLibrary\OnlineLibrary.Application\obj\Debug\net6.0\OnlineLibrary.Application.csproj.CopyComplete
+C:\Users\HP\source\repos\OnlineLibrary\OnlineLibrary.Application\obj\Debug\net6.0\OnlineLibrary.Application.dll
+C:\Users\HP\source\repos\OnlineLibrary\OnlineLibrary.Application\obj\Debug\net6.0\refint\OnlineLibrary.Application.dll
+C:\Users\HP\source\repos\OnlineLibrary\OnlineLibrary.Application\obj\Debug\net6.0\OnlineLibrary.Application.pdb
+C:\Users\HP\source\repos\OnlineLibrary\OnlineLibrary.Application\obj\Debug\net6.0\ref\OnlineLibrary.Application.dll
